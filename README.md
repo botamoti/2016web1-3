@@ -6,6 +6,6 @@
         <title>タイトル</title>
     </head>
     <body>
-       <img src=“Desktop\新しいフォルダー” alt=“自作モンスター” />
+       <img src=“Desktop\新しいフォルダー\ワール.jpg” alt=“自作モンスター” />
     </body>
 </html>
