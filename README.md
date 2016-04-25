@@ -4,6 +4,6 @@
     <head>
     </head>
     <body>
-       <img src=“wa-ru.jpg” alt=“自作モンスター” />
+       <img src=“Z:\Desktop\新しいフォルダー\wa-ru.jpg” alt=“自作モンスター” />
     </body>
 </html>
